@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b21da3fc-f909-4186-b5bc-8b1b46b23046" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/cv-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/cv-pic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/cv-pic2.png" beforeDir="false" />
-    </list>
+    <list default="true" id="b21da3fc-f909-4186-b5bc-8b1b46b23046" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609754151748</updated>
       <workItem from="1609754152868" duration="1886000" />
-      <workItem from="1609757826637" duration="1627000" />
+      <workItem from="1609757826637" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="add online cv">
       <created>1609754188614</created>
@@ -65,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609762233152</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="charge cv pic">
+      <created>1609762536537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609762536537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename picture">
+      <created>1609762724418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609762724418</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,27 +85,29 @@
     <MESSAGE value="add online cv" />
     <MESSAGE value="add styling" />
     <MESSAGE value="fix styling and add education section below work experience" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix styling and add education section below work experience" />
+    <MESSAGE value="charge cv pic" />
+    <MESSAGE value="rename picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename picture" />
   </component>
   <component name="WindowStateProjectService">
     <state x="576" y="-777" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609762421835">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
     <state x="576" y="-777" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762421835" />
-    <state x="408" y="-937" key="CommitChangelistDialog2" timestamp="1609762232793">
+    <state x="408" y="-937" key="CommitChangelistDialog2" timestamp="1609762724249">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="408" y="-937" key="CommitChangelistDialog2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762232793" />
+    <state x="408" y="-937" key="CommitChangelistDialog2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762724249" />
     <state x="392" y="-937" key="CommitChangelistDialog2/-138.-1055.1920.1055/0.25.1680.927@-138.-1055.1920.1055" timestamp="1609754187096" />
     <state x="392" y="-937" key="CommitChangelistDialog2/-138.-1055.1920.1055/0.25.1680.930@-138.-1055.1920.1055" timestamp="1609754602182" />
     <state x="153" y="-912" key="DiffContextDialog" timestamp="1609762039497">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
     <state x="153" y="-912" key="DiffContextDialog/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762039497" />
-    <state x="438" y="-791" key="Vcs.Push.Dialog.v2" timestamp="1609762236045">
+    <state x="438" y="-791" key="Vcs.Push.Dialog.v2" timestamp="1609762808977">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="438" y="-791" key="Vcs.Push.Dialog.v2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762236045" />
+    <state x="438" y="-791" key="Vcs.Push.Dialog.v2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762808977" />
     <state x="422" y="-791" key="Vcs.Push.Dialog.v2/-138.-1055.1920.1055/0.25.1680.927@-138.-1055.1920.1055" timestamp="1609754541507" />
     <state x="422" y="-791" key="Vcs.Push.Dialog.v2/-138.-1055.1920.1055/0.25.1680.930@-138.-1055.1920.1055" timestamp="1609754611220" />
   </component>

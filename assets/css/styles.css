@@ -67,6 +67,10 @@ hr {
   overflow: visible;
 }
 
+span.margin-left-10 {
+  margin-left: 10px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -496,6 +500,10 @@ code {
   font-size: 87.5%;
   color: #e83e8c;
   word-wrap: break-word;
+}
+
+div.margin-top-10 {
+  margin-top: 10px;
 }
 
 a > code {
@@ -9819,6 +9827,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-award-name {
+  display: flex;
   font-weight: bold;
   color: #434E5E;
 }

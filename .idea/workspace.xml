@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b21da3fc-f909-4186-b5bc-8b1b46b23046" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,8 @@
       <workItem from="1609754152868" duration="1886000" />
       <workItem from="1609757826637" duration="2911000" />
       <workItem from="1609765837626" duration="224000" />
+      <workItem from="1610010351920" duration="830000" />
+      <workItem from="1610630113414" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="add online cv">
       <created>1609754188614</created>
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609764394873</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update year of latest project">
+      <created>1610010372815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610010372815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,28 +117,31 @@
     <MESSAGE value="rename picture" />
     <MESSAGE value="add margin for commit" />
     <MESSAGE value="add margin to sub categories" />
-    <option name="LAST_COMMIT_MESSAGE" value="add margin to sub categories" />
+    <MESSAGE value="update year of latest project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update year of latest project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="576" y="-777" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609762421835">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
     <state x="576" y="-777" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762421835" />
-    <state x="408" y="-937" key="CommitChangelistDialog2" timestamp="1609764394672">
-      <screen x="-122" y="-1055" width="1920" height="1055" />
+    <state x="376" y="-937" key="CommitChangelistDialog2" timestamp="1610010372556">
+      <screen x="-154" y="-1055" width="1920" height="1055" />
     </state>
     <state x="408" y="-937" key="CommitChangelistDialog2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609764394672" />
     <state x="392" y="-937" key="CommitChangelistDialog2/-138.-1055.1920.1055/0.25.1680.927@-138.-1055.1920.1055" timestamp="1609754187096" />
     <state x="392" y="-937" key="CommitChangelistDialog2/-138.-1055.1920.1055/0.25.1680.930@-138.-1055.1920.1055" timestamp="1609754602182" />
+    <state x="376" y="-937" key="CommitChangelistDialog2/-154.-1055.1920.1055/0.25.1680.927@-154.-1055.1920.1055" timestamp="1610010372556" />
     <state x="153" y="-912" key="DiffContextDialog" timestamp="1609762039497">
       <screen x="-122" y="-1055" width="1920" height="1055" />
     </state>
     <state x="153" y="-912" key="DiffContextDialog/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609762039497" />
-    <state x="438" y="-791" key="Vcs.Push.Dialog.v2" timestamp="1609764401483">
-      <screen x="-122" y="-1055" width="1920" height="1055" />
+    <state x="406" y="-791" key="Vcs.Push.Dialog.v2" timestamp="1610010379327">
+      <screen x="-154" y="-1055" width="1920" height="1055" />
     </state>
     <state x="438" y="-791" key="Vcs.Push.Dialog.v2/-122.-1055.1920.1055/0.25.1680.927@-122.-1055.1920.1055" timestamp="1609764401483" />
     <state x="422" y="-791" key="Vcs.Push.Dialog.v2/-138.-1055.1920.1055/0.25.1680.927@-138.-1055.1920.1055" timestamp="1609754541507" />
     <state x="422" y="-791" key="Vcs.Push.Dialog.v2/-138.-1055.1920.1055/0.25.1680.930@-138.-1055.1920.1055" timestamp="1609754611220" />
+    <state x="406" y="-791" key="Vcs.Push.Dialog.v2/-154.-1055.1920.1055/0.25.1680.927@-154.-1055.1920.1055" timestamp="1610010379327" />
   </component>
 </project>
